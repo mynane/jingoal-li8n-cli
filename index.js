@@ -12,7 +12,7 @@ var prompt = require('prompt');
 var semver = require('semver');
 
 var argv = require('minimist')(process.argv.slice(2));
-console.log(argv);
+
 var CLI_MODULE_PATH = function() {
   return path.resolve(
     process.cwd(),
