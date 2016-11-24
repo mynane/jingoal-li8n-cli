@@ -1,8 +1,8 @@
 {
   "name": "jingoal-li8n-cli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "BSD-3-Clause",
-  "description": "The Jingoal Li8n CLI tools",
+  "description": "The React Native CLI tools",
   "main": "index.js",
   "engines": {
     "node": ">=4"
@@ -15,7 +15,7 @@
     "test": "mocha"
   },
   "bin": {
-    "react-native": "index.js"
+    "li8n": "index.js"
   },
   "dependencies": {
     "chalk": "^1.1.1",
