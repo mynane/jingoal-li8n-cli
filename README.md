@@ -2,14 +2,14 @@
 
 #### 安装:
 ```
-    npm install -g jingoal-li8n-cli
+    npm install -g jingoal-i18n-cli
 ```
 
 ### 使用:
 首先到项目的根目录下面执行:
 
 ```
-    li8n init
+    i18n init
 ```
 执行完后会在根目录下面生成一个配置文件`.li8nrc`
 
@@ -30,6 +30,6 @@
 
 可以将繁简体转化功能集成到package.json中
 
-在`script`添加:`li8n: "li8n"`
+在`script`添加:`i18n: "i18n"`
 
-使用:`npm run li8n`
+使用:`npm run i18n`
