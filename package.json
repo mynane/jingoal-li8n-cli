@@ -2,14 +2,14 @@
   "name": "jingoal-li8n-cli",
   "version": "0.0.1",
   "license": "BSD-3-Clause",
-  "description": "The React Native CLI tools",
+  "description": "The Jingoal Li8n CLI tools",
   "main": "index.js",
   "engines": {
     "node": ">=4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/react-native.git"
+    "url": "https://github.com/mynane/jingoal-li8n-cli.git"
   },
   "scripts": {
     "test": "mocha"
@@ -23,6 +23,5 @@
     "prompt": "^0.2.14",
     "semver": "^5.0.3"
   },
-  "_from": "react-native-cli@1.2.0",
-  "_resolved": "http://registry.npm.taobao.org/react-native-cli/download/react-native-cli-1.2.0.tgz"
+  "_from": "jingoal-li8n-cli@0.0.1"
 }
